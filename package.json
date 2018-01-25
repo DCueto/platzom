@@ -1,5 +1,5 @@
 {
-  "name": "platzom",
+  "name": "@dcueto/platzom",
   "version": "0.1.0",
   "description": "Proyecto de práctica del curso Fundamentos Javascript de Platzi. Módulo que transforma palabras a un idioma inventado.",
   "main": "dist/src/platzom.js",
